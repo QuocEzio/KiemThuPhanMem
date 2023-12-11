@@ -1,0 +1,6 @@
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\bin\Debug\DBTest.dacpac
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\bin\Debug\DBTest.dll
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\bin\Debug\DBTest.pdb
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\obj\Debug\DBTest.sqlproj.AssemblyReference.cache
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\obj\Debug\DBTest.dll
+D:\Đại Học Mở\Năm Ba\KTPM\Calculator\DBTest\obj\Debug\DBTest.pdb
